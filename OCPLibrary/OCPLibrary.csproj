@@ -51,6 +51,7 @@
     <Compile Include="Applicants\ManagerModel.cs" />
     <Compile Include="Applicants\PersonModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
